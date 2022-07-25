@@ -30,3 +30,4 @@ arrays = [
 tuples = list(zip(*arrays))
 
 print(tuples)
+print('second commit')
